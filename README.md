@@ -1,5 +1,3 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
-
 ## A Responsive Jekyll Theme: *Feeling Responsive*
 
 Do you want to get to know *Feeling Responsive*? Have a look › <http://phlow.github.io/feeling-responsive/>.
